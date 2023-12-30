@@ -1,0 +1,15 @@
+{
+  "name": "video-streaming-application",
+  "version": "1.0.0",
+  "description": "Backend for a video streaming application like YouTube.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hasnaat",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2",
+    "prettier": "^3.1.1"
+  }
+}
